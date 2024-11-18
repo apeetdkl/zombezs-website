@@ -38,7 +38,7 @@ export default function Home() {
     >
       <div className="text-center p-4">
         <h1 className="text-7xl md:text-7xl font-bold mb-4">
-          <span className="typing text-red-500"></span>.
+          <span className="typing text-red-500"></span>
         </h1>
 
         {/* Description with another typing effect */}
