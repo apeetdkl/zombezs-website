@@ -54,7 +54,7 @@ export default function Navbar({ setIsMobileMenuOpen }) {
         <div className="flex items-center justify-between h-20">
           {/* Logo Section */}
           <div className="flex items-center">
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="/" target="" rel="noopener noreferrer">
             <img
               src="images/Logo3.png"
               alt="ZOMBEZS Logo"

@@ -51,13 +51,13 @@ export default function Home() {
         <div className="flex justify-center space-x-4">
           <Link
             to="/events"
-            className="inline-block px-6 py-3 text-black bg-blue-500 hover:bg-blue-600 rounded-lg transition duration-300"
+            className="text-l inline-block px-6 py-3 text-black bg-blue-500 hover:bg-blue-600 rounded-lg transition duration-300"
           >
             Explore Events
           </Link>
           <a
             href="#footer"
-            className="inline-block px-6 py-3 text-black bg-red-500 hover:bg-red-600 rounded-lg transition duration-300"
+            className="text-l inline-block px-6 py-3 text-black bg-red-500 hover:bg-red-600 rounded-lg transition duration-300"
           >
             Hire Us
           </a>

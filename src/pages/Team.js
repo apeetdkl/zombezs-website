@@ -129,9 +129,9 @@ const Team = () => {
       img: '/images/AD.png', // Image should be in the public directory
       description: 'Expert in JavaScript, React, and building scalable responsive applications.',
       social: {
-        facebook: '#',
-        twitter: '#',
-        whatsapp: '#',
+        facebook: 'https://www.facebook.com/stillgrinding.13?mibextid=LQQJ4d',
+        twitter: 'https://www.x.com/apeetdkl',
+        whatsapp: 'https://api.whatsapp.com/send/?phone=917200967948&text&type=phone_number&app_absent=0',
       },
     },
     {
@@ -140,9 +140,9 @@ const Team = () => {
       img: '/images/SP.png',
       description: 'Securing data, protecting systems, and ensuring smooth project execution and communication.',
       social: {
-        facebook: '#',
-        twitter: '#',
-        whatsapp: '#',
+        facebook: 'https://www.facebook.com/sujal.paudel.79?mibextid=LQQJ4d',
+        twitter: 'https://www.x.com/SujalPaudel15',
+        whatsapp: 'https://api.whatsapp.com/send/?phone=916381334109&text&type=phone_number&app_absent=0',
       },
     },
     {
@@ -151,9 +151,9 @@ const Team = () => {
       img: '/images/SC.png',
       description: 'Creative UI/UX designer focused on intuitive and engaging user experiences.',
       social: {
-        facebook: '#',
-        twitter: '#',
-        whatsapp: '#',
+        facebook: 'https://www.facebook.com/SC.NITANT?mibextid=LQQJ4d',
+        twitter: 'https://www.x.com/Nittaany',
+        whatsapp: 'https://api.whatsapp.com/send/?phone=919360041696&text&type=phone_number&app_absent=0',
       },
     },
    
@@ -163,9 +163,9 @@ const Team = () => {
       img: '/images/AK.png',
       description: 'Passionate designer creating unique, growth-driven solutions with creative strategies.',
       social: {
-        facebook: '#',
-        twitter: '#',
-        whatsapp: '#',
+        facebook: 'https://www.facebook.com/abhiikharel?mibextid=LQQJ4d',
+        twitter: 'https://www.x.com/abhiikharel',
+        whatsapp: 'https://api.whatsapp.com/send/?phone=917303181023&text&type=phone_number&app_absent=0',
       },
     },
   ];
