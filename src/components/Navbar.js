@@ -65,16 +65,16 @@ export default function Navbar({ setIsMobileMenuOpen }) {
 
           {/* Desktop Links */}
           <div className="hidden md:flex md:items-center md:space-x-7">
-            <Link to="team" smooth={true} duration={800} className="text-lg hover:text-red-500 transition duration-300">
+            <Link to="team" smooth={true} duration={800} className="text-xl hover:text-red-500 transition duration-300">
               Team
             </Link>
-            <Link to="services" smooth={true} duration={800} className="text-lg hover:text-red-500 transition duration-300">
+            <Link to="services" smooth={true} duration={800} className="text-xl hover:text-red-500 transition duration-300">
               Services
             </Link>
-            <Link to="projects" smooth={true} duration={800} className="text-lg hover:text-red-500 transition duration-300">
+            <Link to="projects" smooth={true} duration={800} className="text-xl hover:text-red-500 transition duration-300">
               Projects
             </Link>
-            <Link to="contact" smooth={true} duration={800} className="text-lg hover:text-red-500 transition duration-300">
+            <Link to="contact" smooth={true} duration={800} className="text-xl hover:text-red-500 transition duration-300">
               Contact Us
             </Link>
           </div>
