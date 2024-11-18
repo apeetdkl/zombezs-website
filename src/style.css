@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Define the custom font using @font-face */
+
+
+body {
+  margin: 0;
+    font-family: "Doto",-apple-system, BlinkMacSystemFont, sans-serif;
+    
+      
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Doto";
+}
