@@ -114,7 +114,7 @@ const CertificateInfo = styled.div`
 
 const Certificates = () => {
   const certificates = [
-    { src: "/certificates/AD3.png", alt: "Certificate 1", title: "Youtube Workshop" },
+    { src: "/certificates/AD3.png", alt: "Certificate 1", title: "Networking" },
     { src: "/certificates/AD5.png", alt: "Certificate 2", title: "Web Dev" },
     { src: "/certificates/SC2.png", alt: "Certificate 3", title: "Cloud Computing" },
     { src: "/certificates/SP3.png", alt: "Certificate 4", title: "Cyber Security" },
